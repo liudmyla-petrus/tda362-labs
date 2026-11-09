@@ -205,6 +205,8 @@ void display(void)
 	glUseProgram(0); // "unsets" the current shader program. Not really necessary.
 }
 
+//Hi!!!!!!
+
 
 ///////////////////////////////////////////////////////////////////////////////
 /// This function is to hold the general GUI logic
